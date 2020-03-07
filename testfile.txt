@@ -1,0 +1,17 @@
+x = 2
+y = 3
+z =  x + y
+print z
+
+a = 7
+print a
+print  a *  2
+
+r = 5
+print  r
+r = r + 1
+print 89
+
+i = 3
+print  i
+print 333
